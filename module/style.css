@@ -1,0 +1,79 @@
+html {
+  background-color: #ffeef8;
+}
+
+body {
+  background-color:  pink;
+  width: 600px;
+  margin: 0 auto;
+  padding: 2px;
+  text-align: center;
+  color: #ff69b4;
+  font-family: comic sans-serif, cursive;
+}
+
+h1 {
+  font-size: 2.8rem;
+  color: #ff1493;
+  text-shadow: 2px 2px #ffb6c1;
+}
+
+#boba-container,
+#dessrt-container {
+  border: 2px solid #ffb6c1;
+  background-color: #fff0f8;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+h2 {
+  font-size: 2.2rem;
+  color: #ff69b4;
+  text-shadow: 1px 1px #ffb6c1;
+}
+
+.menu-item {
+  background-color: #ffd6e7;
+  border: 2px solid #ff99cc;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 15px;
+  position: relative;
+}
+
+.menu-item h3 {
+  color: #ff1493;
+  margin-top: 10px;
+}
+
+.price {
+  font-weight: bold;
+  color: #ff69b4;
+}
+
+#order-container {
+  border: 2px solid #ff99cc;
+  background-color: #ffd6e7;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 15px;
+}
+input {
+  padding: 6px;
+  width: 220px;
+  border: 2px solid #ff99cc;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #ff69b4;
+}
+
+.sticker {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
